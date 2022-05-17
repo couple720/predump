@@ -22,5 +22,6 @@
             "name": "Batis",
             "email": "18264315@qq.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
