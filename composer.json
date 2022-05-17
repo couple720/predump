@@ -1,0 +1,26 @@
+{
+    "name": "dswl/predump",
+    "description": "格式化打印",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Dswl\\Predump\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Batis",
+            "email": "18264315@qq.com"
+        }
+    ]
+}
