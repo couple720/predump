@@ -9,6 +9,6 @@ p($arr);
 pd($arr);
 ```
 #### 查看结果
-[点击访问](https://wzryxswl.github.io/predump/)
+[点击访问](https://rango965.github.io/predump/)
 
 新增标签
