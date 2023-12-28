@@ -1,23 +1,23 @@
 {
-    "name": "dswl/predump",
-    "description": "格式化打印",
-    "type": "library",
-    "require": {},
-    "require-dev": {},
-    "license": "MIT",
-    "autoload": {
-        "files": [
-            "src/helpers.php"
-        ],
-        "psr-4": {
-            "Dswl\\Predump\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Rango",
-            "email": "18264315@qq.com"
-        }
+  "name": "dswl/predump",
+  "description": "格式化打印",
+  "type": "library",
+  "require": {},
+  "require-dev": {},
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "src/helpers.php"
     ],
-    "minimum-stability": "dev"
+    "psr-4": {
+      "Dswl\\Predump\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Rango",
+      "email": "18264315@qq.com"
+    }
+  ],
+  "minimum-stability": "dev"
 }
